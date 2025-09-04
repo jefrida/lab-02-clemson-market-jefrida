@@ -27,12 +27,12 @@ number_of_chips = int(input())
 print("How many turkey sandwiches do you want?")
 number_of_turkey = int(input())
 print("How many lbs of bananas do you want?")
-lbs_of_nanners =  int(input())
+lbs_of_nanners =  float(input())
 
 total_before_tax = ((number_of_chips * cost_of_chips)+(number_of_turkey * cost_of_turkey)+(lbs_of_nanners * cost_of_nanners))
 
 
-print(f"Your total before tax is ${total_before_tax:.2f}")
+print(f"Your total before tax is ${total_before_tax:.2f}.")
 
 print("Please enter the tax rate:")
 tax_rate = float(input())
