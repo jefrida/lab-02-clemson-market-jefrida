@@ -16,9 +16,9 @@ print("Bag of Chips: $5.99 each")
 print("Turkey Sandwich: $13.23 each")
 print("Bananas: $2.73 per lb")
 
-cost_of_chips = float(4.99)
-cost_of_turkey = float(12.00)
-cost_of_nanners = float(2.44)
+cost_of_chips = float(5.99)
+cost_of_turkey = float(13.23)
+cost_of_nanners = float(2.73)
 
 
 
