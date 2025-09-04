@@ -11,10 +11,10 @@ This program will ask the user for how many chips, sandwiches, and pounds of ban
 
 print("Welcome to the Clemson Market!")
 
-print("These are your options!:")
-print("Bag of Chips: $4.99 each")
-print("Turkey Sandwich: $12.00 each")
-print("Bananas: $2.44 per lb")
+print("We have the following items available:")
+print("Bag of Chips: $5.99 each")
+print("Turkey Sandwich: $13.23 each")
+print("Bananas: $2.73 per lb")
 
 cost_of_chips = float(4.99)
 cost_of_turkey = float(12.00)
